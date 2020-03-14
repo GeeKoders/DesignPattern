@@ -18,6 +18,9 @@ public class App {
 	 * "immutable objects" ~ so there will not be any problems because of
 	 * concurrent updates by multiple threads
 	 * 
+	 * reference 
+	 * http://noahsnail.com/2016/10/06/2016-10-06-%E9%87%8D%E5%8F%A0%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E6%A8%A1%E5%BC%8F/
+	 * 
 	 */
 
 	public static void main(String[] args) {
